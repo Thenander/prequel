@@ -1,0 +1,8 @@
+
+Cookie consent added
+  * main.js
+  * index.html
+
+Comments deleted
+  * index.html
+  
